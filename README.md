@@ -45,3 +45,22 @@ go-agent-rules/
 ```bash
 git submodule add git@github.com:Agent-Rules-Ecosystem/go-agent-rules.git .agents
 ```
+
+## ⚡ Quick Start
+
+**1. Instala la gobernanza en tu proyecto**
+```bash
+git submodule add git@github.com:Agent-Rules-Ecosystem/go-agent-rules.git .agents
+```
+
+**2. Inicia el agente**
+```text
+$boot
+```
+
+**3. Registra tu primera tarea**
+```text
+$work agregar handler HTTP para autenticación de usuarios
+```
+
+---
